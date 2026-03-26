@@ -1,0 +1,8 @@
+backtester
+backtester.exe
+build/
+*.o
+data/
+__pycache__/
+*.pyc
+.DS_Store
